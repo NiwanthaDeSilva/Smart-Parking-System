@@ -103,7 +103,7 @@ The system comprises three key components:
 This project was collaboratively developed by the following team members:
 
 - [Niwantha][SEU_IS_18_ICT_057](https://www.linkedin.com/in/niwanthadesilva/)
-- [Muditha][SEU_IS_18_ICT_69](https://www.linkedin.com/in/muditha-sasanka-kodikara-b5473a322/)
+- [Muditha][SEU_IS_18_ICT_069](https://www.linkedin.com/in/muditha-sasanka-kodikara-b5473a322/)
 
 
 ## **Contributing**
